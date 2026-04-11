@@ -1,0 +1,13 @@
+package com.github.ValentinaRy.pet_shelter_management_system;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class PetShelterManagementSystemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(PetShelterManagementSystemApplication.class, args);
+	}
+
+}

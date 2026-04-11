@@ -1,4 +1,4 @@
-package com.github.ValentinaRy.pet_shelter_management_system;
+package com.github.valentinary.shelterms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

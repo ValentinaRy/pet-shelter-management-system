@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.github.ValentinaRy.pet-shelter-management-system' is invalid and this project uses 'com.github.ValentinaRy.pet_shelter_management_system' instead.
+* The original package name 'com.github.valentinary.pet-shelter-management-system' is invalid and this project uses 'com.github.valentinary.shelterms' instead.
 
 # Getting Started
 
